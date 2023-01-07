@@ -11,7 +11,7 @@ h1.notion-heading {
 
 h2,
 h2.notion-heading {
-  font-family: "Sentient Light", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+  font-family: "Monument", Arial, sans-serif !important; }
 
 p,
 p.notion-text__content {
@@ -34,7 +34,7 @@ p.notion-text__content {
   margin-bottom: 2rem !important; }
 
 .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__title .notion-semantic-string {
-  font-family: "Sentient Regular", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+    font-family: "Monument", Arial, sans-serif !important; }
 
 div.notion-collection-card__content > div > div > span {
   font-family: "Sentient Light", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
