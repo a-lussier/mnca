@@ -1,3 +1,5 @@
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+
 @font-face {
   font-family: 'Monument';
   src: url("https://a-lussier.github.io/mnca/PPMonumentExtended-Black.woff2") format("woff2"), url("https://a-lussier.github.io/mnca/PPMonumentExtended-Black.woff") format("woff");
@@ -12,6 +14,14 @@ h1.notion-heading {
 h2,
 h2.notion-heading {
   font-family: "Monument", Arial, sans-serif !important; }
+
+p,
+p.notion-text__content {
+  font-family: 'Inter', sans-serif;
+  p .notion-semantic-string a,
+  p.notion-text__content .notion-semantic-string a {
+    font-family: 'Inter', sans-serif;
+
 
 .notion-column .notion-collection .notion-collection-table__wrapper .notion-collection-table {
   border-top: none !important; }
